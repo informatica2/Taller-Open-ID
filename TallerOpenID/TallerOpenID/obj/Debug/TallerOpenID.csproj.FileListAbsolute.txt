@@ -1,0 +1,9 @@
+c:\users\fernando2\documents\visual studio 2010\TallerOpenID\TallerOpenID\TallerOpenID\obj\Debug\ResolveAssemblyReference.cache
+c:\users\fernando2\documents\visual studio 2010\TallerOpenID\TallerOpenID\TallerOpenID\bin\TallerOpenID.dll
+c:\users\fernando2\documents\visual studio 2010\TallerOpenID\TallerOpenID\TallerOpenID\bin\TallerOpenID.pdb
+c:\users\fernando2\documents\visual studio 2010\TallerOpenID\TallerOpenID\TallerOpenID\bin\DotNetOpenAuth.dll
+c:\users\fernando2\documents\visual studio 2010\TallerOpenID\TallerOpenID\TallerOpenID\bin\DotNetOpenAuth.pdb
+c:\users\fernando2\documents\visual studio 2010\TallerOpenID\TallerOpenID\TallerOpenID\bin\DotNetOpenAuth.xml
+c:\users\fernando2\documents\visual studio 2010\TallerOpenID\TallerOpenID\TallerOpenID\bin\sr\DotNetOpenAuth.resources.dll
+c:\users\fernando2\documents\visual studio 2010\TallerOpenID\TallerOpenID\TallerOpenID\obj\Debug\TallerOpenID.dll
+c:\users\fernando2\documents\visual studio 2010\TallerOpenID\TallerOpenID\TallerOpenID\obj\Debug\TallerOpenID.pdb
